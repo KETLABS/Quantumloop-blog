@@ -1,3 +1,3 @@
 # Quantumloop-blog
 Currently under construction. 
-Expected launch date: begin december 2020. 
+Expected launch date: December 2020. 
